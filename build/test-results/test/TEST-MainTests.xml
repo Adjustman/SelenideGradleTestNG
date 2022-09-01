@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-01T07:40:41" hostname="WIN-V3E900EB01B" time="4.54">
+  <properties/>
+  <testcase name="checkMenu" classname="MainTests" time="1.494"/>
+  <testcase name="checkMenuAboutUsLink" classname="MainTests" time="1.516"/>
+  <testcase name="checkMenuSingInBtn" classname="MainTests" time="1.527"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
